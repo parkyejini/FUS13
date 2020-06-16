@@ -11,7 +11,8 @@
 * rm (폴더, 파일)다 지우기 
 * ls 목록 보기 
 * cat 파일 내용 확인하기 
-[README](..README.md)
+
+[README](../README.md)
 
 
 ``` js
